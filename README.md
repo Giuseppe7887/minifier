@@ -1,7 +1,7 @@
 # Semplice minifier per file html
 
 
-##<p style='color:blue'>UTILIZZO</p>
+<h1 style='color:blue'>UTILIZZO</h1>
 
 ```bash
     python minify.py file.html
